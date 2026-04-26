@@ -1,14 +1,24 @@
 # Climate Challenge Week 0
 
+## Project Overview
+Brief description of the project and COP32 context
+
+## Project Structure
+Show the folder structure
+
 ## How to Reproduce the Environment
+1. Clone the repo
+2. Create virtual environment
+3. Activate it
+4. Install dependencies
 
-1. Clone the repository:
-   git clone https://github.com/YOUR_USERNAME/climate-challenge-week0.git
-   cd climate-challenge-week0
+## Countries Analysed
+- Ethiopia, Kenya, Tanzania, Sudan, Nigeria
 
-2. Create and activate virtual environment:
-   python -m venv .venv
-   source .venv/Scripts/activate  # Git Bash on Windows
-
-3. Install dependencies:
-   pip install -r requirements.txt
+## Branches
+- setup-task → environment setup
+- eda-ethiopia → Ethiopia EDA
+- eda-kenya → Kenya EDA
+- eda-sudan → Sudan EDA
+- eda-tanzania → Tanzania EDA
+- eda-nigeria → Nigeria EDA
